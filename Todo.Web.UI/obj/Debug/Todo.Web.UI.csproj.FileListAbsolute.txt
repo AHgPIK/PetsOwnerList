@@ -1,0 +1,116 @@
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\csc.exe
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\vbc.exe
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Todo.Web.UI.dll.config
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Todo.Web.UI.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Todo.Web.UI.pdb
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Newtonsoft.Json.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Helpers.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Mvc.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Razor.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Webpages.Deployment.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Webpages.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Webpages.Razor.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Todo.Entities.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Todo.Repositories.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Todo.Entities.pdb
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Todo.Repositories.pdb
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\Newtonsoft.Json.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Razor.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Webpages.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Webpages.Deployment.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Webpages.Razor.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Helpers.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\bin\System.Web.Mvc.xml
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.csprojResolveAssemblyReference.cache
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\csc.exe
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\vbc.exe
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Todo.Web.UI.dll.config
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Todo.Web.UI.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Todo.Web.UI.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Newtonsoft.Json.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Helpers.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Mvc.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Razor.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Webpages.Deployment.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Webpages.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Webpages.Razor.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Todo.Entities.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Todo.Repositories.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Todo.Entities.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Todo.Repositories.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\Newtonsoft.Json.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Razor.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Webpages.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Webpages.Deployment.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Webpages.Razor.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Helpers.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\bin\System.Web.Mvc.xml
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.csprojResolveAssemblyReference.cache
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\csc.exe
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\vbc.exe
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Todo.Web.UI.dll.config
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Todo.Web.UI.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Todo.Web.UI.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Newtonsoft.Json.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Helpers.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Mvc.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Razor.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Webpages.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Todo.Entities.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Todo.Repositories.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Todo.Entities.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Todo.Repositories.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\Newtonsoft.Json.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Razor.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Webpages.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Helpers.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\bin\System.Web.Mvc.xml
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Web.UI\obj\Debug\Todo.Web.UI.pdb

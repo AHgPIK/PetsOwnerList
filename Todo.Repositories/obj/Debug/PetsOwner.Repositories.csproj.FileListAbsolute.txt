@@ -1,0 +1,7 @@
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Repositories\bin\Debug\Todo.Repositories.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Repositories\bin\Debug\Todo.Repositories.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Repositories\bin\Debug\Todo.Entities.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Repositories\bin\Debug\Todo.Entities.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Repositories\obj\Debug\PetsOwner.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Repositories\obj\Debug\Todo.Repositories.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Repositories\obj\Debug\Todo.Repositories.pdb

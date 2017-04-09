@@ -1,0 +1,78 @@
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\csc.exe
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\vbc.exe
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Todo.Web.UI.dll.config
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Todo.Web.UI.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Todo.Web.UI.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Newtonsoft.Json.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Helpers.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Mvc.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Razor.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Todo.Entities.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Todo.Repositories.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Todo.Entities.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Todo.Repositories.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\Newtonsoft.Json.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Razor.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Helpers.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\bin\System.Web.Mvc.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\obj\Debug\PetsOwner.Web.UI.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\obj\Debug\Todo.Web.UI.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Todo.Web.UI\obj\Debug\Todo.Web.UI.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\csc.exe
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\vbc.exe
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Todo.Web.UI.dll.config
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Todo.Web.UI.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Todo.Web.UI.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Newtonsoft.Json.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Helpers.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Mvc.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Razor.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Todo.Entities.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Todo.Repositories.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Todo.Entities.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Todo.Repositories.pdb
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\Newtonsoft.Json.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Razor.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Helpers.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\bin\System.Web.Mvc.xml
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\obj\Debug\PetsOwner.Web.UI.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\obj\Debug\Todo.Web.UI.dll
+C:\Users\Elenka\Desktop\Pets Owner List\Pets Owner List\Todo.Web.UI\obj\Debug\Todo.Web.UI.pdb

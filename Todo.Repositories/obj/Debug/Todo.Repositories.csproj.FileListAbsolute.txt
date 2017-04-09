@@ -1,0 +1,21 @@
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Repositories\bin\Debug\Todo.Repositories.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Repositories\bin\Debug\Todo.Repositories.pdb
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Repositories\bin\Debug\Todo.Entities.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Repositories\bin\Debug\Todo.Entities.pdb
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.csprojResolveAssemblyReference.cache
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Repositories\bin\Debug\Todo.Repositories.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Repositories\bin\Debug\Todo.Repositories.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Repositories\bin\Debug\Todo.Entities.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Repositories\bin\Debug\Todo.Entities.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.csprojResolveAssemblyReference.cache
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Repositories\bin\Debug\Todo.Repositories.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Repositories\bin\Debug\Todo.Repositories.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Repositories\bin\Debug\Todo.Entities.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Repositories\bin\Debug\Todo.Entities.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Repositories\obj\Debug\Todo.Repositories.pdb

@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section FootScripts
+{
+    <script src="~/Scripts/app/pages/users/users.module.js"></script>
+    <script src="~/Scripts/app/pages/users/users.controller.js"></script>
+    <script src="~/Scripts/app/pages/users/users.service.js"></script>
+}
+
+<section ng-app="usersModule">
+
+    <h2>All Users</h2>
+
+
+    <div ng-controller="UsersController as uc">
+        <div>
+            <input type="text" ng-model="uc.newUserTitle" placeholder="Enter Pet Owner's Name'" />
+            <button ng-click="uc.onAddNewUser()" ng-disabled="!uc.isNewUserTitleValid()">Add</button>
+        </div>
+        <br />
+        <div>Total count: {{ uc.users.length }}</div>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Pets Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="user in uc.users">
+                        <td>{{ user.Title }}</td>
+                        <td>
+                            {{ user.Count }}
+                            <button title="Delete" ng-model="user.Done" ng-click="uc.onDeletePressed(user)">Delete</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div>
+            @*<table>
+                <tr>
+                    <td ng-repeat="page in uc.pages">
+                        <div ng-click="uc.changePage(page)">{{page}}, </div>
+                    </td>
+                </tr>
+            </table>*@
+            
+        </div>
+    </div>
+
+</section>
