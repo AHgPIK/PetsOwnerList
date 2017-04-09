@@ -1,0 +1,15 @@
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Entities\bin\Debug\Todo.Entities.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Entities\bin\Debug\Todo.Entities.pdb
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Entities\obj\Debug\Todo.Entities.csprojResolveAssemblyReference.cache
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Entities\obj\Debug\Todo.Entities.dll
+D:\TrainingProjects\UnitTesting\Angular1xTodo-master (1)\Angular1xTodo-master\Todo\Todo.Entities\obj\Debug\Todo.Entities.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Entities\bin\Debug\Todo.Entities.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Entities\bin\Debug\Todo.Entities.pdb
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Entities\obj\Debug\Todo.Entities.csprojResolveAssemblyReference.cache
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Entities\obj\Debug\Todo.Entities.dll
+D:\TrainingProjects\Angular1xTodo\Angular\Todo\Todo.Entities\obj\Debug\Todo.Entities.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Entities\bin\Debug\Todo.Entities.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Entities\bin\Debug\Todo.Entities.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Entities\obj\Debug\Todo.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Entities\obj\Debug\Todo.Entities.dll
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\ang\Todo\Todo.Entities\obj\Debug\Todo.Entities.pdb
